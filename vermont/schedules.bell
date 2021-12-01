@@ -121,3 +121,56 @@
 10:40 {E}
 11:25 Lunch
 13:00 Free
+
+* schedule-9 # Schedule 9
+8:00 {G}
+8:45 passing to {A}
+8:50 {A}
+9:50 passing to {B}
+9:55 {B}
+10:55 passing to {H}
+11:00 {H}
+11:40 lunch
+13:00 Free
+
+* schedule-10 # Schedule 10
+8:00 {E}
+9:00 passing to {B}
+9:05 {B}
+9:50 passing to {G}
+9:55 {G}
+10:40 passing to {A}
+10:45 {A}
+11:30 Lunch
+12:15 {F}
+13:00 passing to {D}
+13:05 {D}
+14:05 passing to {H}
+14:10 {H}
+14:50 passing to {C}
+14:55 {C}
+15:40 Free
+
+* schedule-11 # Schedule 11
+8:00 residential life meeting
+8:40 passing to {D}
+8:45 {D}
+9:30 passing to {C}
+9:35 {C}
+10:35 passing to advisory
+10:40 Advisory
+11:10 passing to {F}
+11:15 {F}
+12:00 Lunch
+13:00 Free
+
+* schedule-12 # Schedule 12
+8:45 {B}
+9:30 passing to {C}
+9:35 {C}
+10:20 passing to {G}
+10:25 {G}
+11:10 passing to {A}
+11:15 {A}
+12:00 Lunch
+13:00 Free
